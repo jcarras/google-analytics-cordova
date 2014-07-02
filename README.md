@@ -25,7 +25,7 @@ I am putting this on github so others can pull this in using Bower like so:
     "my name"
   ],
   "devDependencies": {
-    "gaCordova" : "https://github.com/jcarras/google-analytics-cordova"
+    "gaCordova" : "https://github.com/jcarras/google-analytics-cordova.git"
   }
 }
 ```
